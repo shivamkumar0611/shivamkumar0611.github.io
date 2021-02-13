@@ -6,7 +6,7 @@
   Portfolio Website Version 2
 </h1>
 <p align="center">
-  The second iteration of <a href="https://shivamkumar0611.gihub.io/" target="_blank">shivamkumar0611.github.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
+  The second iteration of <a href="https://shivamkumar0611.gihub.io/" target="_blank">shivamkumar0611.github.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=red&label=LinkedIn%20&logo=Linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshivamkumar0611%2F">
 </p>
 <p align="center">
   Previous iterations:
